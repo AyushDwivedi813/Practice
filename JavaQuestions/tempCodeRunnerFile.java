@@ -1,0 +1,2 @@
+LCMofTwoNum lcm = new LCMofTwoNum();
+        
