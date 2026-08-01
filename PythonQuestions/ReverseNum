@@ -1,0 +1,10 @@
+def reverseNum(n):
+    ld = 0
+    rv = 0
+    while  n > 0:
+        ld = n % 10 
+        rv = ( rv * 10 ) + ld
+        n = n // 10
+    return rv
+result = reverseNum(1434213789)
+print(result)

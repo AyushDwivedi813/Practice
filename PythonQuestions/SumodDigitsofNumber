@@ -1,0 +1,12 @@
+def sumofdigits(n):
+    ld = 0
+    sum = 0
+    while n > 0:
+        ld = n % 10 
+        sum = sum + ld
+        n = n // 10
+    return sum
+
+user_input = int(input("Enter Number "))
+result = sumofdigits(user_input)
+print(f"The Sum of Digits of {user_input} is {result}")
