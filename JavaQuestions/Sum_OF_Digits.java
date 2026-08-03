@@ -2,7 +2,6 @@ public class Sum_OF_Digits {
 
     public void sumOfDigits(int num) {
         int ld = 0;
-        int ornum = num;
         int sum = 0;
         while (num != 0) {
             ld = num % 10;
