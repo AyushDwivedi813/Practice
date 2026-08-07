@@ -1,0 +1,42 @@
+Tree is graph(V,E) - (Graph become Tree) Non Linear Data Structure |
+Root node has no root node :
+Non Cycle format of Graph : 
+
+
+Height of binary tree :
+    log2(n+1)=i
+Number of levels :
+    n=2^(i-1)
+
+
+Binary Search Tree :
+    10 5 9 4 3 11
+
+                    10 //root
+            5//left         12//right
+        4       9   
+    3 //leaf  
+
+Its Unbalanced and sometimes Skewed to resolving this we intoduced with
+                            AVL - Tree
+                   Height Balanced Binary Search
+
+But if no. of values large it become large node tree so we introduced with
+                            B-Tree
+                Self balanced and Multi-way Search Tree
+
+Red-Black Tree :
+                2 types of node there one is RED and one is Black
+                        binary tree & self balancing tree
+        each node 
+
+
+                            10 //black
+                5//red                         12//red
+        4//black       9//black      11//black        13//black
+
+No consecutive red allowed:
+
+black height count from first black root to end leaf node : Bh = 2
+COMPLEXITY : always better than BST 
+this improvement over AVL and BST

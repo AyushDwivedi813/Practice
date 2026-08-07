@@ -11,4 +11,4 @@ def perfectnum(n):
 
     return s == n
 print(perfectnum(6))
-        
+
