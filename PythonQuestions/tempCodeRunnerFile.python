@@ -1,1 +1,7 @@
-{
+def powerofnum(nu,pow) :
+    i=1
+    num=nu
+    while(i<=pow):
+        num*=num
+    print(f"{nu} the power {pow} is {num}")
+powerofnum(5,2)

@@ -1,0 +1,10 @@
+Create a list of 5 numbers and print it.
+Find the length of a list without manually counting.
+Print the first and last element of a list.
+Add an element to the end of a list.
+Insert an element at a specific index.
+Remove a specific element from a list.
+Find the largest and smallest number in a list.
+Find the sum of all elements in a list.
+Reverse a list without using slicing [::-1].
+Count how many times a particular element occurs in a list.

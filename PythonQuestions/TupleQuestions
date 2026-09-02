@@ -1,0 +1,39 @@
+Tuple Initialization
+1.Create a tuple containing 5 different numbers and print it.
+
+2.Access Elements
+Given:
+
+numbers = (10, 20, 30, 40, 50)
+
+Print the first, third, and last element.
+
+3.Tuple Length
+Find the number of elements in a tuple without manually counting.
+
+4.Slicing
+Given a tuple:
+
+t = (1, 2, 3, 4, 5, 6, 7, 8)
+
+Print elements from index 2 to 5 and reverse the tuple using slicing.
+
+5.Check Element
+Check whether a particular element exists in a tuple using the in operator.
+
+6.Count Occurrences
+Count how many times a specific element occurs:
+
+t = (1, 2, 3, 2, 4, 2, 5)
+
+7.Find Index
+Find the index of a particular element in a tuple using .index().
+
+8.Tuple Concatenation and Repetition
+Create two tuples, combine them, and then repeat the resulting tuple twice.
+
+9.Tuple Packing and Unpacking
+Create a tuple containing your name, age, and city. Unpack it into three separate variables.
+
+10.Convert and Modify a Tuple
+Since tuples are immutable, convert a tuple into a list, add a new element, remove an element, and convert it back into a tuple.
