@@ -15,4 +15,4 @@ def isCircularPrime(n):
 
 n = int(input("Enter Number"))
 isPrime(n)
-isCircularPrime(n)
+print(isCircularPrime(n))
